@@ -1,4 +1,4 @@
-[
+const faqs = [
   {
     question: "What is Hirrd?",
     answer:
@@ -30,3 +30,5 @@
       "Job seekers can track the status of their applications from the 'Applications' section in their profile. This section provides updates on the progress of each application.",
   },
 ];
+
+export default faqs;
